@@ -1,0 +1,5 @@
+assign int to rps (0)rock (1)paper or (2)scissor
+getRandomInt(3) = returns random integer 0, 1, or 2
+prompt() -> user input rock paper or scissors or the int
+determine winner
+output winner
